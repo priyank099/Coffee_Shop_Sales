@@ -39,3 +39,7 @@ This Coffee Shop Sales Dashboard is designed in Microsoft Excel to analyze and v
 **Tools Used:**
 - **Microsoft Excel:** For data analysis, visualization, and dashboard creation.
 - **Data Visualization Techniques:** Bar charts, line charts, pie charts, and slicers for interactive filtering.
+
+## Dashboard
+
+![Coffee Shop Sales](/Images/coffee_shop_sales_cover.jpg)
